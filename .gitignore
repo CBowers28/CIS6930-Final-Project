@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Environments
+.env/
+.venv/
+*.conda
+*.yaml
+
+# Data / models / outputs
+data/
+outputs/
+logs/
+*.pt
+*.bin
+*.safetensors
+*.ckpt
+
+# System files
+.DS_Store
+Thumbs.db
