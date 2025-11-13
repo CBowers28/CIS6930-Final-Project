@@ -1,0 +1,11 @@
+name: base
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - uv
+  - pixi
+  - mamba
+  - conda-build
+prefix: /apps/conda/25.7.0
